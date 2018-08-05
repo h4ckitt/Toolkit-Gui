@@ -1,0 +1,13 @@
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\bin\Debug\Toolkit.exe.config
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\bin\Debug\Toolkit.exe
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\bin\Debug\Toolkit.pdb
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\bin\Debug\Toolkit.xml
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.Form1.resources
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.Form2.resources
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.Resources.resources
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.vbproj.GenerateResource.Cache
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.vbproj.CoreCompileInputs.cache
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.exe
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.xml
+C:\Users\Dharmy\source\repos\Toolkit\Toolkit\obj\Debug\Toolkit.pdb
